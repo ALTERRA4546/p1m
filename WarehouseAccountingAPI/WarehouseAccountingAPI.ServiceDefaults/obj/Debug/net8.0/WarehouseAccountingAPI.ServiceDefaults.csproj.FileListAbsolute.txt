@@ -1,0 +1,12 @@
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\bin\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.deps.json
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\bin\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\bin\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.AssemblyInfo.cs
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\refint\WarehouseAccountingAPI.ServiceDefaults.dll
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\WarehouseAccountingAPI.ServiceDefaults.pdb
+C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.ServiceDefaults\obj\Debug\net8.0\ref\WarehouseAccountingAPI.ServiceDefaults.dll

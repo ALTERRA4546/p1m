@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OG8CGDUKpa1LpApvbK+8G5rPyP/k0ugDAp8Su7DGz0g=",
+  "Source": "WarehouseAccountingAPI",
+  "BasePath": "_content/WarehouseAccountingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

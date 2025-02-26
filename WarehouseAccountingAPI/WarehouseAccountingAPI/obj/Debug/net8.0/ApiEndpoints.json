@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "WarehouseAccounting.Controllers.GoodsInWarehouseController",
+    "Method": "GetGoods",
+    "RelativePath": "api/GoodsInWarehouse/Goods",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WarehouseAccounting.Controllers.GoodsInWarehouseController",
+    "Method": "SetGoods",
+    "RelativePath": "api/GoodsInWarehouse/Goods",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "goodsSet",
+        "Type": "WarehouseAccounting.Controllers.GoodsSet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
+    "Method": "SetAuthorization",
+    "RelativePath": "api/UserAuthorization/AuthorizationV1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "keyWord",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
+    "Method": "SendCode",
+    "RelativePath": "api/UserAuthorization/AuthorizationV2_Send_Code",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
+    "Method": "VerifyCode",
+    "RelativePath": "api/UserAuthorization/AuthorizationV2_Verify_Code",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "verificationCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WarehouseAccountingAPI.Controllers.WarehouseController",
+    "Method": "GetWarehouse",
+    "RelativePath": "api/Warehouse/Warehouse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
