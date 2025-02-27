@@ -1,0 +1,47 @@
+﻿<Window x:Class="WarehouseAccountingWPF.UserAuthorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WarehouseAccountingWPF"
+        mc:Ignorable="d"
+        Title="UserAuthorization" Height="200" Width="350">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Авторизация" Margin="0,0,0,10" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TabControl  x:Name="LoginMethod">
+                <TabItem>
+                    <TabItem.Header>
+                        <TextBlock Text="Логин и пароль"/>
+                    </TabItem.Header>
+                    <TabItem.Content>
+                        <StackPanel>
+                            <Grid Margin="0,0,0,10">
+                                <TextBlock Text="Логин"/>
+                                <TextBox x:Name="Login" Margin="60,0,0,0" Width="200"/>
+                            </Grid>
+                            <Grid Margin="0,0,0,10">
+                                <TextBlock Text="Пароль"/>
+                                <TextBox x:Name="Password" Margin="60,0,0,0" Width="200"/>
+                            </Grid>
+                        </StackPanel>
+                    </TabItem.Content>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <TextBlock Text="Почта"/>
+                    </TabItem.Header>
+                    <TabItem.Content>
+                        <StackPanel>
+                            <Grid Margin="0,0,0,10">
+                                <TextBlock Text="Почта"/>
+                                <TextBox x:Name="Email" Margin="60,0,0,0" Width="200"/>
+                            </Grid>
+                        </StackPanel>
+                    </TabItem.Content>
+                </TabItem>
+            </TabControl>
+            <Button x:Name="Authorization" Content="Авторизация" Click="Authorization_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

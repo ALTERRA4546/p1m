@@ -1,17 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\warehouseaccountingapi\\warehouseaccountingapi\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\warehouseaccountingapi\\warehouseaccountingapi\\controllers\\goodsinwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\controllers\\userauthorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\controllers\\userauthorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\dbmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\dbmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\controllers\\goodsinwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\controllers\\goodsinwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\warehouseaccountingapi\\warehouseaccountingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\dbmodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\dbmodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\dbmodel\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\dbmodel\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|c:\\users\\king night\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043F\u043C01\\warehouseaccountingapi\\warehouseaccountingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EB67241-8962-4879-8884-ACD4BEBC24C5}|WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj|solutionrelative:warehouseaccountingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,41 +55,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseAccountingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\appsettings.json",
+              "RelativeToolTip": "WarehouseAccountingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T10:58:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\Employee.cs",
+              "RelativeDocumentMoniker": "WarehouseAccountingAPI\\DbModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\Employee.cs",
+              "RelativeToolTip": "WarehouseAccountingAPI\\DbModel\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:28:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\UserAuthorizationController.cs",
+              "RelativeDocumentMoniker": "WarehouseAccountingAPI\\Controllers\\UserAuthorizationController.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\UserAuthorizationController.cs",
+              "RelativeToolTip": "WarehouseAccountingAPI\\Controllers\\UserAuthorizationController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:26:11.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\Goods.cs",
+              "RelativeDocumentMoniker": "WarehouseAccountingAPI\\DbModel\\Goods.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\Goods.cs",
+              "RelativeToolTip": "WarehouseAccountingAPI\\DbModel\\Goods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:51:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WarehouseAccountingAPI\\DbModel\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\DbModel\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WarehouseAccountingAPI\\DbModel\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:21:12.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\EmailSender.cs",
               "RelativeDocumentMoniker": "WarehouseAccountingAPI\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\EmailSender.cs",
               "RelativeToolTip": "WarehouseAccountingAPI\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T13:13:35.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GoodsInWarehouseController.cs",
-              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
               "RelativeDocumentMoniker": "WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
-              "ToolTip": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
               "RelativeToolTip": "WarehouseAccountingAPI\\Controllers\\GoodsInWarehouseController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADwAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T13:05:40.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Program.cs",
               "RelativeDocumentMoniker": "WarehouseAccountingAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041F\u041C01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\Program.cs",
               "RelativeToolTip": "WarehouseAccountingAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T11:08:09.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T11:08:09.86Z"
             }
           ]
         },

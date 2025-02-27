@@ -1,0 +1,18 @@
+﻿<Window x:Class="WarehouseAccountingWPF.VerificationCode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WarehouseAccountingWPF"
+        mc:Ignorable="d"
+        Title="VerificationCode" Height="150" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Введите код авторизации" Margin="0,0,0,10" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <Grid Margin="0,0,0,10">
+                <TextBox x:Name="VerificationCodeText" Width="260"/>
+            </Grid>
+            <Button x:Name="VerificationButton" Content="Отправить" Click="VerificationButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

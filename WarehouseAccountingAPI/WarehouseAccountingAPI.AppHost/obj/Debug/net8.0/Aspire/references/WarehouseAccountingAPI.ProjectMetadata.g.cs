@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class WarehouseAccountingAPI : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI\WarehouseAccountingAPI.csproj""";
+    public string ProjectPath => """C:\Users\King Night\Desktop\Практика ПМ01\WarehouseAccountingAPI\WarehouseAccountingAPI\WarehouseAccountingAPI.csproj""";
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1L/o5LHAbpM=",
+  "dgSpecHash": "0m8ReMVda9M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj",
+  "projectFilePath": "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI\\WarehouseAccountingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\King Night\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\King Night\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

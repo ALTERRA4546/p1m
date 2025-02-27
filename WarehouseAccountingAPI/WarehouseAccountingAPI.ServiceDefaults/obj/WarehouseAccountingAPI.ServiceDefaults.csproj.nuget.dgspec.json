@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj": {}
+    "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj": {}
   },
   "projects": {
-    "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj": {
+    "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
         "projectName": "WarehouseAccountingAPI.ServiceDefaults",
-        "projectPath": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
+        "projectPath": "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\King Night\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\obj\\",
+        "outputPath": "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -18,8 +18,8 @@ using System.Reflection;
     "ols\\ext\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\King Night\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\to" +
     "ols\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.AppHost" +
-    "")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccount" +
+    "ingAPI.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "WarehouseAccountingAPI.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\King Night\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspi" +
     "re.Dashboard.exe")]

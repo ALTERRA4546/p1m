@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPPBfTRGYYQ=",
+  "dgSpecHash": "X6adHDhlxKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\King Night\\Desktop\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\Users\\King Night\\Desktop\\Практика ПМ01\\WarehouseAccountingAPI\\WarehouseAccountingAPI.ServiceDefaults\\WarehouseAccountingAPI.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\King Night\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\King Night\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

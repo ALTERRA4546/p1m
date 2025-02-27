@@ -23,9 +23,12 @@ namespace WarehouseAccountingAPI.Controllers
         //V1
 
         [HttpPost("AuthorizationV1")]
-        public async Task<IActionResult> SetAuthorization(string login, string password, string keyWord)
+        public async Task<IActionResult> AuthorizationV1LoginPassword(string login, string password, string keyWord)
         {
-            var userData = await (
+            Console.WriteLine($"Received request: login={login}, password={password}, keyWord={keyWord}");
+
+
+        var userData = await (
                 from employee in _context.Employee
                 join authorizationEmployee in _context.AuthorizationEmployee on employee.IdEmployee equals authorizationEmployee.IdEmployee
                 where
@@ -46,7 +49,7 @@ namespace WarehouseAccountingAPI.Controllers
         // V2
 
         [HttpPost("AuthorizationV2_Send_Code")]
-        public async Task<IActionResult> SendCode(string email)
+        public async Task<IActionResult> AuthorizationV2SendCode(string email)
         {
             var userData = await (
                 from employee in _context.Employee
@@ -82,7 +85,7 @@ namespace WarehouseAccountingAPI.Controllers
         }
 
         [HttpPost("AuthorizationV2_Verify_Code")]
-        public async Task<IActionResult> VerifyCode(string email, string verificationCode)
+        public async Task<IActionResult> AuthorizationV2VerifyCode(string email, string verificationCode)
         {
             var userData = await (
                 from employee in _context.Employee

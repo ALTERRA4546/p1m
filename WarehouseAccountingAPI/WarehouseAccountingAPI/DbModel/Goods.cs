@@ -20,6 +20,8 @@ namespace WarehouseAccounting.Model
         [MaybeNull]
         public int? IdUnit { get; set; }
         public float Price { get; set; }
+        [MaybeNull]
+        public float Quantity { get; set; }
         public string SerialNumber { get; set; }
         public float MinimumBalance { get; set; }
     }

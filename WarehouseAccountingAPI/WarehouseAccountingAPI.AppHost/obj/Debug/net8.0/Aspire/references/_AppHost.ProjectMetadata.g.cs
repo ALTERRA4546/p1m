@@ -8,5 +8,5 @@ namespace Projects;
 public class WarehouseAccountingAPI_AppHost
 {
     private WarehouseAccountingAPI_AppHost() { }
-    public static string ProjectPath => """C:\Users\King Night\Desktop\WarehouseAccountingAPI\WarehouseAccountingAPI.AppHost""";
+    public static string ProjectPath => """C:\Users\King Night\Desktop\Практика ПМ01\WarehouseAccountingAPI\WarehouseAccountingAPI.AppHost""";
 }

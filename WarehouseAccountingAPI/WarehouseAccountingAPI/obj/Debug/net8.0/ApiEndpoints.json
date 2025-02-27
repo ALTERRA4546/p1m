@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
-    "Method": "SetAuthorization",
+    "Method": "AuthorizationV1LoginPassword",
     "RelativePath": "api/UserAuthorization/AuthorizationV1",
     "HttpMethod": "POST",
     "IsController": true,
@@ -53,7 +53,7 @@
   },
   {
     "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
-    "Method": "SendCode",
+    "Method": "AuthorizationV2SendCode",
     "RelativePath": "api/UserAuthorization/AuthorizationV2_Send_Code",
     "HttpMethod": "POST",
     "IsController": true,
@@ -69,7 +69,7 @@
   },
   {
     "ContainingType": "WarehouseAccountingAPI.Controllers.UserAuthorizationController",
-    "Method": "VerifyCode",
+    "Method": "AuthorizationV2VerifyCode",
     "RelativePath": "api/UserAuthorization/AuthorizationV2_Verify_Code",
     "HttpMethod": "POST",
     "IsController": true,

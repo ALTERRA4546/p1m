@@ -14,9 +14,14 @@ namespace WarehouseAccounting.Controllers
         public string Category { get; set; }
         public string Unit { get; set; }
         public double Price { get; set; }
-        public string? SerialNumber { get; set; }
+        public string SerialNumber { get; set; }
+        public double? Quantity { get; set; }
         public double? MinimumBalance { get; set; }
-        public Warehouse Warehouse { get; set; }
+        public int IdWarehouse { get; set; }
+        public string TitleWarehouse { get; set; }
+        public string AddressWarehouse { get; set; }
+        public string WarehouseType { get; set; }
+        public string StorageArea { get; set; }
     }
 
     public class GoodsSet
@@ -30,6 +35,7 @@ namespace WarehouseAccounting.Controllers
         public float Price { get; set; }
         public string SerialNumber { get; set; }
         public float MinimumBalance { get; set; }
+        public float Quantity { get; set; }
     }
 
 
@@ -52,6 +58,8 @@ namespace WarehouseAccounting.Controllers
                                        join unit in _context.Unit on goods.IdUnit equals unit.IdUnit
                                        join goodsWarehouse in _context.GoodsWarehouse on goods.IdGoods equals goodsWarehouse.IdGoods
                                        join warehouse in _context.Warehouse on goodsWarehouse.IdWarehouse equals warehouse.IdWarehouse
+                                       join warehouseType in _context.WarehouseType on warehouse.IdWarehouseType equals warehouseType.IdWarehouseType
+                                       join storageArea in _context.StorageArea on warehouse.IdStorageArea equals storageArea.IdStorageArea
                                        select new GoodsGet
                                        {
                                            IdGoods = goods.IdGoods,
@@ -63,7 +71,13 @@ namespace WarehouseAccounting.Controllers
                                            Price = goods.Price,
                                            SerialNumber = goods.SerialNumber ?? "N/A",
                                            MinimumBalance = goods.MinimumBalance,
-                                           Warehouse = warehouse
+                                           Quantity = goods.Quantity,
+                                           IdWarehouse = warehouse.IdWarehouse,
+                                           TitleWarehouse = warehouse.Title,
+                                           AddressWarehouse = warehouse.Address,
+                                           WarehouseType = warehouseType.Title,
+                                           StorageArea = storageArea.Title
+
                                        }).ToListAsync();
                 
                 return Ok(goodsData);
@@ -81,7 +95,8 @@ namespace WarehouseAccounting.Controllers
                 IdUnit = goodsSet.IdUnit,
                 Price = goodsSet.Price,
                 SerialNumber = goodsSet.SerialNumber,
-                MinimumBalance = goodsSet.MinimumBalance
+                MinimumBalance = goodsSet.MinimumBalance,
+                Quantity = goodsSet.Quantity
             };
 
             _context.Goods.Add(goods);
@@ -91,6 +106,8 @@ namespace WarehouseAccounting.Controllers
                 IdGoods = goods.IdGoods,
                 IdWarehouse = goodsSet.IdWarehouse
             };
+
+            _context.GoodsWarehouse.Add(goodsWarehouse);
 
             await _context.SaveChangesAsync();
 
